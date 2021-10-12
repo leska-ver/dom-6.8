@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+}
+
+.button {
+  outline: 1px solid #333;
+  background-color: blueviolet;   
+}
+
+.text {
+  margin: 0;
+  margin-right: 25px;
+}
